@@ -13,3 +13,6 @@ Look at the Trail Map  (Projects/Cloud Native Trail Map menu).
 ## Explore the Landscape diagram
 
 From the Trail Map page, click on the Landscape link of use the Projects/Interactive Landscape menu on the CNCF Web site.
+
+
+Made some changes
